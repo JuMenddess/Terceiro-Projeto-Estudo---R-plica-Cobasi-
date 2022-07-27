@@ -1,0 +1,52 @@
+
+
+
+.barra-cadastro{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  background-color: #48D1CC;
+  width: auto;
+  height: 100;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  box-sizing: border-box;
+  font-size: 30px;
+  padding: 25px;
+  font: color;
+  color: white;
+  margin: auto;
+  
+  
+  }
+
+  .menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    background-color: #20B2AA;
+    padding: 10px;
+    }
+
+    .informativo{
+      display: flex;
+      background-color: white;
+      color: #20B2AA;
+      flex-direction:row;
+      justify-content:space-evenly;
+      padding: 10px;
+      }
+
+.produto1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 35px;
+  }
+
+
+.imagem{
+  display: flex;
+
+}
